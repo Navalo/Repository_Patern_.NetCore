@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6G5GQ4l5FfP+/MbiY7KSdr7yUXfRx/y45KY1Qepo2xgZIzc5QZbogEuZyhsrNcmwrJiEL1ox4jrDrjGAJC5mQg==",
+  "success": true,
+  "projectFilePath": "D:\\Navalo\\Exercise\\Repository_Pattern_Dot_Net_Core_Web_API\\Repository_Pattern_Dot_Net_Core_Web_API\\Repository_Pattern_Dot_Net_Core_Web_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KAJAMOKAN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\KAJAMOKAN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\KAJAMOKAN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\KAJAMOKAN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\KAJAMOKAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\KAJAMOKAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
